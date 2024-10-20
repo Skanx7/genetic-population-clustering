@@ -1,0 +1,5 @@
+scikit-allel
+scikit-learn
+pandas
+numpy
+seaborn
