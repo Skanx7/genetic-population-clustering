@@ -1,4 +1,4 @@
-DATA_DIR="/data/1000G/"
+DATA_DIR="data/1000G/"
 GENOTYPE_FILE="ALL.chr22.phase3_shapeit2_mvncall_integrated_v5b.20130502.genotypes.vcf.gz"
 
 # Convert VCF file to PLINK binary format

@@ -1,6 +1,6 @@
 #!/bin/bash
-DATA_DIR="../data/1000G/"
-mkdir -p $DATA_DIR
+DATA_DIR="$(dirname "$0")/../data/1000G/"
+mkdir -p "$DATA_DIR"
 
 # Download the VCF file
 # Print the current working directory
