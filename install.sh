@@ -1,5 +1,7 @@
 #!/bin/bash
 
+sudo apt update
+sudo apt install -y wget unzip
 # Set the PLINK download URL
 PLINK_URL="http://s3.amazonaws.com/plink1-assets/plink_linux_x86_64_20230116.zip"
 PLINK_FOLDER="plink_folder"
